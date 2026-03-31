@@ -18,5 +18,5 @@ A simple Python parser that collects news from the main page of [RBC](https://rb
 - Python 3.x
 - [Selenium](https://pypi.org/project/selenium/)
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
-- [time](
+- [time]
 ---
